@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog_</folder>
+	<filename>5a0b004d-23d2-11e8-a6a3-ec086b02610b.jpg</filename>
+	<path>C:\Users\Acer\Desktop\PestDetection\data\actual images\dog_\5a0b004d-23d2-11e8-a6a3-ec086b02610b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>271</ymin>
+			<xmax>698</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

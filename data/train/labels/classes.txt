@@ -1,0 +1,7 @@
+dog
+cat
+cow
+goat
+boar
+deer
+leopard

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat_</folder>
+	<filename>5a24a9cb-23d2-11e8-a6a3-ec086b02610b.jpg</filename>
+	<path>C:\Users\Acer\Desktop\PestDetection\data\actual images\cat_\5a24a9cb-23d2-11e8-a6a3-ec086b02610b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>340</ymin>
+			<xmax>470</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
