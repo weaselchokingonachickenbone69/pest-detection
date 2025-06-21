@@ -1,0 +1,5 @@
+path: C:\Users\Acer\Desktop\Pest-Detection\dataset
+train: images/train
+val: images/val
+nc: 7
+names: [dog, cat, cow, goat, boar, deer, leopard]
