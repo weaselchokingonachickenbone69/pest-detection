@@ -1,4 +1,4 @@
-path: C:\Users\Acer\Desktop\Pest-Detection\dataset
+path: dataset
 train: images/train
 val: images/val
 nc: 7
