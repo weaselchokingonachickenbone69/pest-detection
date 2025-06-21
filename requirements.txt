@@ -1,0 +1,7 @@
+ultralytics
+tensorflow
+pandas
+numpy
+matplotlib
+albumentations
+opencv-python
